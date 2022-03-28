@@ -1,0 +1,192 @@
+{
+  "uid" : "127dc3b994675aec",
+  "name" : "should verify brand image existence",
+  "fullName" : "Test Dashboard Page.should verify brand image existence",
+  "historyId" : "a7acf2665fb232a064da4df7cb3caf56",
+  "time" : {
+    "start" : 1648461024077,
+    "stop" : 1648461024099,
+    "duration" : 22
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "STEP || Opening URL: https://opensource-demo.orangehrmlive.com",
+      "time" : {
+        "start" : 1648461024078,
+        "stop" : 1648461024079,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "STEP || Maximizing window",
+      "time" : {
+        "start" : 1648461024080,
+        "stop" : 1648461024080,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "STEP || Entering value: Admin",
+      "time" : {
+        "start" : 1648461024080,
+        "stop" : 1648461024080,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "STEP || Entering value: admin123",
+      "time" : {
+        "start" : 1648461024081,
+        "stop" : 1648461024081,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "STEP || clicking on Element: [ [object Promise] ]",
+      "time" : {
+        "start" : 1648461024081,
+        "stop" : 1648461024081,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "STEP || Element [ [object Promise] ] is existing : [object Promise]",
+      "time" : {
+        "start" : 1648461024087,
+        "stop" : 1648461024087,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "STEP || clicking on Element: [ [object Promise] ]",
+      "time" : {
+        "start" : 1648461024093,
+        "stop" : 1648461024093,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "STEP || clicking on Element: [ [object Promise] ]",
+      "time" : {
+        "start" : 1648461024094,
+        "stop" : 1648461024094,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 8,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Test Dashboard Page"
+  }, {
+    "name" : "testClass",
+    "value" : "Test Dashboard Page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should verify brand image existence"
+  }, {
+    "name" : "package",
+    "value" : "Test Dashboard Page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.51"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "127dc3b994675aec.json",
+  "parameterValues" : [ "chrome-99.0.4844.51" ]
+}

@@ -1,0 +1,192 @@
+{
+  "uid" : "370f3ec7e6108f42",
+  "name" : "Should verify valid login",
+  "fullName" : "Test LoginPage of Orange HRMlive.Should verify valid login",
+  "historyId" : "91317e3591aa25ada7a7b4d3846c4330",
+  "time" : {
+    "start" : 1648461038585,
+    "stop" : 1648461038596,
+    "duration" : 11
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "STEP || Opening URL: https://opensource-demo.orangehrmlive.com",
+      "time" : {
+        "start" : 1648461038586,
+        "stop" : 1648461038586,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "STEP || Maximizing window",
+      "time" : {
+        "start" : 1648461038586,
+        "stop" : 1648461038586,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "STEP || Entering value: Admin",
+      "time" : {
+        "start" : 1648461038588,
+        "stop" : 1648461038588,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "STEP || Entering value: admin123",
+      "time" : {
+        "start" : 1648461038588,
+        "stop" : 1648461038588,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "STEP || clicking on Element: [ [object Promise] ]",
+      "time" : {
+        "start" : 1648461038588,
+        "stop" : 1648461038588,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "STEP || Element [ [object Promise] ] is existing : [object Promise]",
+      "time" : {
+        "start" : 1648461038589,
+        "stop" : 1648461038589,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "STEP || clicking on Element: [ [object Promise] ]",
+      "time" : {
+        "start" : 1648461038590,
+        "stop" : 1648461038590,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "STEP || clicking on Element: [ [object Promise] ]",
+      "time" : {
+        "start" : 1648461038590,
+        "stop" : 1648461038590,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 8,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Test LoginPage of Orange HRMlive"
+  }, {
+    "name" : "testClass",
+    "value" : "Test LoginPage of Orange HRMlive"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify valid login"
+  }, {
+    "name" : "package",
+    "value" : "Test LoginPage of Orange HRMlive"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.51"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "370f3ec7e6108f42.json",
+  "parameterValues" : [ "chrome-99.0.4844.51" ]
+}

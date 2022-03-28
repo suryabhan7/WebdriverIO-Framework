@@ -1,0 +1,101 @@
+[ {
+  "uid" : "3835d404ec0518c9",
+  "name" : "should verify dashboard page elements presence",
+  "time" : {
+    "start" : 1648461024102,
+    "stop" : 1648461024135,
+    "duration" : 33
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c3bc709f3fcd9f46",
+  "name" : "Should drag and drop element",
+  "time" : {
+    "start" : 1648461030983,
+    "stop" : 1648461030992,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a602466c2c569a44",
+  "name" : "Should verify forgot password link",
+  "time" : {
+    "start" : 1648461038615,
+    "stop" : 1648461038619,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b467e72a556a3",
+  "name" : "should switch between frames",
+  "time" : {
+    "start" : 1648461035398,
+    "stop" : 1648461035409,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b8b9583b31fa97a",
+  "name" : "Should verify login page title",
+  "time" : {
+    "start" : 1648461038600,
+    "stop" : 1648461038606,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "127dc3b994675aec",
+  "name" : "should verify brand image existence",
+  "time" : {
+    "start" : 1648461024077,
+    "stop" : 1648461024099,
+    "duration" : 22
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c3d46e8b206794c5",
+  "name" : "Should verify invalid login",
+  "time" : {
+    "start" : 1648461038572,
+    "stop" : 1648461038583,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "370f3ec7e6108f42",
+  "name" : "Should verify valid login",
+  "time" : {
+    "start" : 1648461038585,
+    "stop" : 1648461038596,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f4fc080c47234f1b",
+  "name" : "Should verify login page header",
+  "time" : {
+    "start" : 1648461038607,
+    "stop" : 1648461038614,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "caad6f99c55fe4bd",
+  "name" : "should validte page title",
+  "time" : {
+    "start" : 1648461048461,
+    "stop" : 1648461048469,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

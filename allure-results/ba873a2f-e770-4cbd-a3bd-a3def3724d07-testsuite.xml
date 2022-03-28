@@ -1,0 +1,191 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1648461024077' stop='1648461024138'>
+    <name>Test Dashboard Page</name>
+    <title>Test Dashboard Page</title>
+    <test-cases>
+        <test-case start='1648461024077' status='passed' stop='1648461024099'>
+            <name>should verify brand image existence</name>
+            <title>should verify brand image existence</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-99.0.4844.51'/>
+                <parameter kind='argument' name='browser' value='chrome-99.0.4844.51'/>
+                <parameter kind='argument' name='browser' value='chrome-99.0.4844.51'/>
+            </parameters>
+            <steps>
+                <step start='1648461024078' status='passed' stop='1648461024079'>
+                    <name>STEP || Opening URL: https://opensource-demo.orangehrmlive.com</name>
+                    <title>STEP || Opening URL: https://opensource-demo.orangehrmlive.com</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461024080' status='passed' stop='1648461024080'>
+                    <name>STEP || Maximizing window</name>
+                    <title>STEP || Maximizing window</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461024080' status='passed' stop='1648461024080'>
+                    <name>STEP || Entering value: Admin</name>
+                    <title>STEP || Entering value: Admin</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461024081' status='passed' stop='1648461024081'>
+                    <name>STEP || Entering value: admin123</name>
+                    <title>STEP || Entering value: admin123</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461024081' status='passed' stop='1648461024081'>
+                    <name>STEP || clicking on Element: [ [object Promise] ]</name>
+                    <title>STEP || clicking on Element: [ [object Promise] ]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461024087' status='passed' stop='1648461024087'>
+                    <name>STEP || Element [ [object Promise] ] is existing : [object Promise]</name>
+                    <title>STEP || Element [ [object Promise] ] is existing : [object Promise]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461024093' status='passed' stop='1648461024093'>
+                    <name>STEP || clicking on Element: [ [object Promise] ]</name>
+                    <title>STEP || clicking on Element: [ [object Promise] ]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461024094' status='passed' stop='1648461024094'>
+                    <name>STEP || clicking on Element: [ [object Promise] ]</name>
+                    <title>STEP || clicking on Element: [ [object Promise] ]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1648461024102' status='passed' stop='1648461024135'>
+            <name>should verify dashboard page elements presence</name>
+            <title>should verify dashboard page elements presence</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-99.0.4844.51'/>
+                <parameter kind='argument' name='browser' value='chrome-99.0.4844.51'/>
+                <parameter kind='argument' name='browser' value='chrome-99.0.4844.51'/>
+            </parameters>
+            <steps>
+                <step start='1648461024103' status='passed' stop='1648461024103'>
+                    <name>STEP || Opening URL: https://opensource-demo.orangehrmlive.com</name>
+                    <title>STEP || Opening URL: https://opensource-demo.orangehrmlive.com</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461024105' status='passed' stop='1648461024105'>
+                    <name>STEP || Maximizing window</name>
+                    <title>STEP || Maximizing window</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461024105' status='passed' stop='1648461024105'>
+                    <name>STEP || Entering value: Admin</name>
+                    <title>STEP || Entering value: Admin</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461024105' status='passed' stop='1648461024105'>
+                    <name>STEP || Entering value: admin123</name>
+                    <title>STEP || Entering value: admin123</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461024105' status='passed' stop='1648461024105'>
+                    <name>STEP || clicking on Element: [ [object Promise] ]</name>
+                    <title>STEP || clicking on Element: [ [object Promise] ]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461024114' status='passed' stop='1648461024114'>
+                    <name>STEP || Element [ [object Promise] ] is displyed : [object Promise]</name>
+                    <title>STEP || Element [ [object Promise] ] is displyed : [object Promise]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461024115' status='passed' stop='1648461024115'>
+                    <name>STEP || Element [ [object Promise] ] is existing : [object Promise]</name>
+                    <title>STEP || Element [ [object Promise] ] is existing : [object Promise]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461024116' status='passed' stop='1648461024116'>
+                    <name>STEP || Element [ [object Promise] ] is existing : [object Promise]</name>
+                    <title>STEP || Element [ [object Promise] ] is existing : [object Promise]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461024117' status='passed' stop='1648461024117'>
+                    <name>STEP || Element [ [object Promise] ] is existing : [object Promise]</name>
+                    <title>STEP || Element [ [object Promise] ] is existing : [object Promise]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461024118' status='passed' stop='1648461024118'>
+                    <name>STEP || Element [ [object Promise] ] is displyed : [object Promise]</name>
+                    <title>STEP || Element [ [object Promise] ] is displyed : [object Promise]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461024119' status='passed' stop='1648461024119'>
+                    <name>STEP || Element [ [object Promise] ] is displyed : [object Promise]</name>
+                    <title>STEP || Element [ [object Promise] ] is displyed : [object Promise]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461024120' status='passed' stop='1648461024120'>
+                    <name>STEP || Element [ [object Promise] ] is displyed : [object Promise]</name>
+                    <title>STEP || Element [ [object Promise] ] is displyed : [object Promise]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461024120' status='passed' stop='1648461024120'>
+                    <name>STEP || Element [ [object Promise] ] is displyed : [object Promise]</name>
+                    <title>STEP || Element [ [object Promise] ] is displyed : [object Promise]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461024131' status='passed' stop='1648461024131'>
+                    <name>STEP || clicking on Element: [ [object Promise] ]</name>
+                    <title>STEP || clicking on Element: [ [object Promise] ]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461024131' status='passed' stop='1648461024131'>
+                    <name>STEP || clicking on Element: [ [object Promise] ]</name>
+                    <title>STEP || clicking on Element: [ [object Promise] ]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

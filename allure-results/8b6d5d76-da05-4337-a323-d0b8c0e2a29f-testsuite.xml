@@ -1,0 +1,123 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1648461038571' stop='1648461038629'>
+    <name>Test LoginPage of Orange HRMlive</name>
+    <title>Test LoginPage of Orange HRMlive</title>
+    <test-cases>
+        <test-case start='1648461038572' status='passed' stop='1648461038583'>
+            <name>Should verify invalid login</name>
+            <title>Should verify invalid login</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-3'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-3'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-99.0.4844.51'/>
+                <parameter kind='argument' name='browser' value='chrome-99.0.4844.51'/>
+            </parameters>
+            <steps>
+                <step start='1648461038572' status='passed' stop='1648461038572'>
+                    <name>STEP || Opening URL: https://opensource-demo.orangehrmlive.com</name>
+                    <title>STEP || Opening URL: https://opensource-demo.orangehrmlive.com</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461038573' status='passed' stop='1648461038573'>
+                    <name>STEP || Maximizing window</name>
+                    <title>STEP || Maximizing window</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461038575' status='passed' stop='1648461038575'>
+                    <name>STEP || Entering value: foo</name>
+                    <title>STEP || Entering value: foo</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461038576' status='passed' stop='1648461038576'>
+                    <name>STEP || Entering value: bar</name>
+                    <title>STEP || Entering value: bar</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461038576' status='passed' stop='1648461038576'>
+                    <name>STEP || clicking on Element: [ [object Promise] ]</name>
+                    <title>STEP || clicking on Element: [ [object Promise] ]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1648461038585' status='passed' stop='1648461038596'>
+            <name>Should verify valid login</name>
+            <title>Should verify valid login</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-3'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-3'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-99.0.4844.51'/>
+                <parameter kind='argument' name='browser' value='chrome-99.0.4844.51'/>
+            </parameters>
+            <steps>
+                <step start='1648461038586' status='passed' stop='1648461038586'>
+                    <name>STEP || Opening URL: https://opensource-demo.orangehrmlive.com</name>
+                    <title>STEP || Opening URL: https://opensource-demo.orangehrmlive.com</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461038586' status='passed' stop='1648461038586'>
+                    <name>STEP || Maximizing window</name>
+                    <title>STEP || Maximizing window</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461038588' status='passed' stop='1648461038588'>
+                    <name>STEP || Entering value: Admin</name>
+                    <title>STEP || Entering value: Admin</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461038588' status='passed' stop='1648461038588'>
+                    <name>STEP || Entering value: admin123</name>
+                    <title>STEP || Entering value: admin123</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461038588' status='passed' stop='1648461038588'>
+                    <name>STEP || clicking on Element: [ [object Promise] ]</name>
+                    <title>STEP || clicking on Element: [ [object Promise] ]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461038589' status='passed' stop='1648461038589'>
+                    <name>STEP || Element [ [object Promise] ] is existing : [object Promise]</name>
+                    <title>STEP || Element [ [object Promise] ] is existing : [object Promise]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461038590' status='passed' stop='1648461038590'>
+                    <name>STEP || clicking on Element: [ [object Promise] ]</name>
+                    <title>STEP || clicking on Element: [ [object Promise] ]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461038590' status='passed' stop='1648461038590'>
+                    <name>STEP || clicking on Element: [ [object Promise] ]</name>
+                    <title>STEP || clicking on Element: [ [object Promise] ]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

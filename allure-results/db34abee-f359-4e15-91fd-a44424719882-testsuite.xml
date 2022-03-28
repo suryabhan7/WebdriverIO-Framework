@@ -1,0 +1,112 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1648461038599' stop='1648461038620'>
+    <name>Test LoginPage of Orange HRMlive: Login page fields</name>
+    <title>Test LoginPage of Orange HRMlive: Login page fields</title>
+    <test-cases>
+        <test-case start='1648461038600' status='passed' stop='1648461038606'>
+            <name>Should verify login page title</name>
+            <title>Should verify login page title</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-3'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-3'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-99.0.4844.51'/>
+                <parameter kind='argument' name='browser' value='chrome-99.0.4844.51'/>
+            </parameters>
+            <steps>
+                <step start='1648461038600' status='passed' stop='1648461038600'>
+                    <name>STEP || Opening URL: https://opensource-demo.orangehrmlive.com</name>
+                    <title>STEP || Opening URL: https://opensource-demo.orangehrmlive.com</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461038601' status='passed' stop='1648461038601'>
+                    <name>STEP || Maximizing window</name>
+                    <title>STEP || Maximizing window</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1648461038607' status='passed' stop='1648461038614'>
+            <name>Should verify login page header</name>
+            <title>Should verify login page header</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-3'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-3'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-99.0.4844.51'/>
+                <parameter kind='argument' name='browser' value='chrome-99.0.4844.51'/>
+            </parameters>
+            <steps>
+                <step start='1648461038607' status='passed' stop='1648461038607'>
+                    <name>STEP || Opening URL: https://opensource-demo.orangehrmlive.com</name>
+                    <title>STEP || Opening URL: https://opensource-demo.orangehrmlive.com</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461038608' status='passed' stop='1648461038608'>
+                    <name>STEP || Maximizing window</name>
+                    <title>STEP || Maximizing window</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461038612' status='passed' stop='1648461038612'>
+                    <name>STEP || Element [ [object Promise] ] is displyed : [object Promise]</name>
+                    <title>STEP || Element [ [object Promise] ] is displyed : [object Promise]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1648461038615' status='passed' stop='1648461038619'>
+            <name>Should verify forgot password link</name>
+            <title>Should verify forgot password link</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-3'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-3'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-99.0.4844.51'/>
+                <parameter kind='argument' name='browser' value='chrome-99.0.4844.51'/>
+            </parameters>
+            <steps>
+                <step start='1648461038615' status='passed' stop='1648461038615'>
+                    <name>STEP || Opening URL: https://opensource-demo.orangehrmlive.com</name>
+                    <title>STEP || Opening URL: https://opensource-demo.orangehrmlive.com</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461038615' status='passed' stop='1648461038615'>
+                    <name>STEP || Maximizing window</name>
+                    <title>STEP || Maximizing window</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1648461038617' status='passed' stop='1648461038617'>
+                    <name>STEP || Element [ [object Promise] ] is displyed : [object Promise]</name>
+                    <title>STEP || Element [ [object Promise] ] is displyed : [object Promise]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

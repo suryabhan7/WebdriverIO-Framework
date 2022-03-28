@@ -1,0 +1,102 @@
+{
+  "uid" : "b467e72a556a3",
+  "name" : "should switch between frames",
+  "fullName" : "Test frames of DemoQA.should switch between frames",
+  "historyId" : "384c7cee83cb65c57069ad7f4b3b57c1",
+  "time" : {
+    "start" : 1648461035398,
+    "stop" : 1648461035409,
+    "duration" : 11
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "STEP || Opening URL: https://demoqa.com/frames",
+      "time" : {
+        "start" : 1648461035400,
+        "stop" : 1648461035400,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "STEP || Maximizing window",
+      "time" : {
+        "start" : 1648461035402,
+        "stop" : 1648461035402,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Test frames of DemoQA"
+  }, {
+    "name" : "testClass",
+    "value" : "Test frames of DemoQA"
+  }, {
+    "name" : "testMethod",
+    "value" : "should switch between frames"
+  }, {
+    "name" : "package",
+    "value" : "Test frames of DemoQA"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.51"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b467e72a556a3.json",
+  "parameterValues" : [ "chrome-99.0.4844.51" ]
+}

@@ -1,0 +1,102 @@
+{
+  "uid" : "1b8b9583b31fa97a",
+  "name" : "Should verify login page title",
+  "fullName" : "Test LoginPage of Orange HRMlive: Login page fields.Should verify login page title",
+  "historyId" : "1eace92285f4c44bc806ad236e9c0e0f",
+  "time" : {
+    "start" : 1648461038600,
+    "stop" : 1648461038606,
+    "duration" : 6
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "STEP || Opening URL: https://opensource-demo.orangehrmlive.com",
+      "time" : {
+        "start" : 1648461038600,
+        "stop" : 1648461038600,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "STEP || Maximizing window",
+      "time" : {
+        "start" : 1648461038601,
+        "stop" : 1648461038601,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Test LoginPage of Orange HRMlive: Login page fields"
+  }, {
+    "name" : "testClass",
+    "value" : "Test LoginPage of Orange HRMlive: Login page fields"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify login page title"
+  }, {
+    "name" : "package",
+    "value" : "Test LoginPage of Orange HRMlive: Login page fields"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.51"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1b8b9583b31fa97a.json",
+  "parameterValues" : [ "chrome-99.0.4844.51" ]
+}

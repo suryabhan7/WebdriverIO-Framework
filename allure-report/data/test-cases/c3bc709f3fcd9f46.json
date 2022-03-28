@@ -1,0 +1,102 @@
+{
+  "uid" : "c3bc709f3fcd9f46",
+  "name" : "Should drag and drop element",
+  "fullName" : "Test droppable element of DemoQA.Should drag and drop element",
+  "historyId" : "2e716eb3f45346ad43b9141e716c1552",
+  "time" : {
+    "start" : 1648461030983,
+    "stop" : 1648461030992,
+    "duration" : 9
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "STEP || Opening URL: https://demoqa.com/droppable",
+      "time" : {
+        "start" : 1648461030983,
+        "stop" : 1648461030983,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "STEP || Maximizing window",
+      "time" : {
+        "start" : 1648461030985,
+        "stop" : 1648461030985,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Test droppable element of DemoQA"
+  }, {
+    "name" : "testClass",
+    "value" : "Test droppable element of DemoQA"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should drag and drop element"
+  }, {
+    "name" : "package",
+    "value" : "Test droppable element of DemoQA"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.51"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c3bc709f3fcd9f46.json",
+  "parameterValues" : [ "chrome-99.0.4844.51" ]
+}

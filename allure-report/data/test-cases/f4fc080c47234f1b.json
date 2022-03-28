@@ -1,0 +1,117 @@
+{
+  "uid" : "f4fc080c47234f1b",
+  "name" : "Should verify login page header",
+  "fullName" : "Test LoginPage of Orange HRMlive: Login page fields.Should verify login page header",
+  "historyId" : "538a468a46206947a6dffe0b3066bd75",
+  "time" : {
+    "start" : 1648461038607,
+    "stop" : 1648461038614,
+    "duration" : 7
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "STEP || Opening URL: https://opensource-demo.orangehrmlive.com",
+      "time" : {
+        "start" : 1648461038607,
+        "stop" : 1648461038607,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "STEP || Maximizing window",
+      "time" : {
+        "start" : 1648461038608,
+        "stop" : 1648461038608,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "STEP || Element [ [object Promise] ] is displyed : [object Promise]",
+      "time" : {
+        "start" : 1648461038612,
+        "stop" : 1648461038612,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Test LoginPage of Orange HRMlive: Login page fields"
+  }, {
+    "name" : "testClass",
+    "value" : "Test LoginPage of Orange HRMlive: Login page fields"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should verify login page header"
+  }, {
+    "name" : "package",
+    "value" : "Test LoginPage of Orange HRMlive: Login page fields"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.51"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f4fc080c47234f1b.json",
+  "parameterValues" : [ "chrome-99.0.4844.51" ]
+}

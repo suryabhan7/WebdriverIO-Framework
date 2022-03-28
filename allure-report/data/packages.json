@@ -1,0 +1,199 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "Test Dashboard Page",
+    "children" : [ {
+      "name" : "should verify brand image existence",
+      "uid" : "127dc3b994675aec",
+      "parentUid" : "6de78605f0ae9670f22338ea3ab3b42d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648461024077,
+        "stop" : 1648461024099,
+        "duration" : 22
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-99.0.4844.51" ]
+    }, {
+      "name" : "should verify dashboard page elements presence",
+      "uid" : "3835d404ec0518c9",
+      "parentUid" : "6de78605f0ae9670f22338ea3ab3b42d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648461024102,
+        "stop" : 1648461024135,
+        "duration" : 33
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-99.0.4844.51" ]
+    } ],
+    "uid" : "6de78605f0ae9670f22338ea3ab3b42d"
+  }, {
+    "name" : "Test droppable element of DemoQA",
+    "children" : [ {
+      "name" : "Should drag and drop element",
+      "uid" : "c3bc709f3fcd9f46",
+      "parentUid" : "501b889c7eae7ac3471bb7d51ccea31c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648461030983,
+        "stop" : 1648461030992,
+        "duration" : 9
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-99.0.4844.51" ]
+    } ],
+    "uid" : "501b889c7eae7ac3471bb7d51ccea31c"
+  }, {
+    "name" : "Test frames of DemoQA",
+    "children" : [ {
+      "name" : "should switch between frames",
+      "uid" : "b467e72a556a3",
+      "parentUid" : "79c604361d53f0d09ff0ba867f3a7294",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648461035398,
+        "stop" : 1648461035409,
+        "duration" : 11
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-99.0.4844.51" ]
+    } ],
+    "uid" : "79c604361d53f0d09ff0ba867f3a7294"
+  }, {
+    "name" : "Test LoginPage of Orange HRMlive",
+    "children" : [ {
+      "name" : "Should verify invalid login",
+      "uid" : "c3d46e8b206794c5",
+      "parentUid" : "30f90b5d387f1127c66b13f03287ad6b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648461038572,
+        "stop" : 1648461038583,
+        "duration" : 11
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-99.0.4844.51" ]
+    }, {
+      "name" : "Should verify valid login",
+      "uid" : "370f3ec7e6108f42",
+      "parentUid" : "30f90b5d387f1127c66b13f03287ad6b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648461038585,
+        "stop" : 1648461038596,
+        "duration" : 11
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-99.0.4844.51" ]
+    } ],
+    "uid" : "30f90b5d387f1127c66b13f03287ad6b"
+  }, {
+    "name" : "Test LoginPage of Orange HRMlive: Login page fields",
+    "children" : [ {
+      "name" : "Should verify login page title",
+      "uid" : "1b8b9583b31fa97a",
+      "parentUid" : "ec3a1e7b0245f54720b9931a2a8e6899",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648461038600,
+        "stop" : 1648461038606,
+        "duration" : 6
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-99.0.4844.51" ]
+    }, {
+      "name" : "Should verify login page header",
+      "uid" : "f4fc080c47234f1b",
+      "parentUid" : "ec3a1e7b0245f54720b9931a2a8e6899",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648461038607,
+        "stop" : 1648461038614,
+        "duration" : 7
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-99.0.4844.51" ]
+    }, {
+      "name" : "Should verify forgot password link",
+      "uid" : "a602466c2c569a44",
+      "parentUid" : "ec3a1e7b0245f54720b9931a2a8e6899",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648461038615,
+        "stop" : 1648461038619,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-99.0.4844.51" ]
+    } ],
+    "uid" : "ec3a1e7b0245f54720b9931a2a8e6899"
+  }, {
+    "name" : "Smoke Test",
+    "children" : [ {
+      "name" : "should validte page title",
+      "uid" : "caad6f99c55fe4bd",
+      "parentUid" : "6ef0fc06823c665b47ceac1d4cd9294a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648461048461,
+        "stop" : 1648461048469,
+        "duration" : 8
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-99.0.4844.51" ]
+    } ],
+    "uid" : "6ef0fc06823c665b47ceac1d4cd9294a"
+  } ],
+  "name" : "packages"
+}
